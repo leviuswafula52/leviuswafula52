@@ -1,12 +1,12 @@
 # Hi there Dev, I'm Levius Wafula 👋
 
-![Banner](https://your-image-url/banner.gif)
+![Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me tho:
 
 ## 🚀 About Me
-- 🌱 I’m currently developing learning new technologies and improving my skills in full-stack development.
-- 💬 Ask me about JavaScript(Es6), LaravelPHP,TailwindCss, and web development.
+- 🌱 I’m currently developing, learning new technologies, and improving my skills in full-stack development.
+- 💬 Ask me about JavaScript (ES6), Laravel PHP, Tailwind CSS, and web development.
 - 📫 How to reach me: [leviuswafula528@gmail.com](mailto:leviuswafula528@gmail.com)
 - ⚡ Fun fact: I love playing KONAMI and bike hiking in my free time.
 
@@ -34,11 +34,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## 📌 Pinned Repositories
 <p align="center">
-  <a href="https://github.com/leviuswafula52/Tans-Nzoia ICT hub-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leviuswafula52&repo=awesome-project&theme=radical" alt="Awesome Project" />
+  <a href="https://github.com/leviuswafula52/Trans-Nzoia-ICT-hub-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leviuswafula52&repo=Trans-Nzoia-ICT-hub-project&theme=radical" alt="Trans Nzoia ICT Hub Project" />
   </a>
   <a href="https://github.com/leviuswafula52/Shulepress-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leviuswafula52&repo=another-cool-project&theme=radical" alt="Another Cool Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leviuswafula52&repo=Shulepress-project&theme=radical" alt="Shulepress Project" />
   </a>
 </p>
 
@@ -57,5 +57,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ![Footer](https://your-image-url/footer.gif)
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch. Let's build something amazing together! 😊
- crafted by levius
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch. Let's build something amazing together! 😊  
+_Crafted by Levius_
