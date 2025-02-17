@@ -2,7 +2,8 @@
 
 ![Cartoon Burner Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThrYjI4aWI3dHAwaGV0Zno0N3lieXA4ZW9rMnpraTU0dGhlZTRudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me tho:
+Welcome to my GitHub profile! I'm a passionate developer with a love 
+for learning and creating innovative solutions. Here's a bit about me tho:
 
 ## 🚀 About Me
 - 🌱 I’m currently developing, learning new technologies, and improving my skills in full-stack development.
@@ -11,21 +12,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 - ⚡ Fun fact: I love playing KONAMI and bike hiking in my free time.
 
 ## 🛠️ Technologies and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript(ES6)](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-php-007396?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ## 📈 GitHub Stats
 <p align="center">
