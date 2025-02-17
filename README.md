@@ -1,6 +1,6 @@
 # Hi there Dev, I'm Levius Wafula 👋
 
-![Cartoon Burner Animation](https://your-cartoon-burner-animation.gif)
+![Cartoon Burner Animation]([https://your-cartoon-burner-animation.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThrYjI4aWI3dHAwaGV0Zno0N3lieXA4ZW9rMnpraTU0dGhlZTRudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif))
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me tho:
 
