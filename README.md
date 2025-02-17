@@ -6,7 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love
 for learning and creating innovative solutions. Here's a bit about me tho:
 
 ## 🚀 About Me
-- 🌱 I’m currently developing, learning new technologies, and improving my skills in full-stack development.
+- 🌱 I’m currently developing, learning new technologies,
+-  and improving my skills in full-stack development.
+-  check the project here https://app.esenta.co.ke
 - 💬 Ask me about JavaScript (ES6), Laravel PHP, Tailwind CSS, and web development.
 - 📫 How to reach me: [leviuswafula528@gmail.com](mailto:leviuswafula528@gmail.com)
 - ⚡ Fun fact: I love playing KONAMI and bike hiking in my free time.
