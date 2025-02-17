@@ -55,7 +55,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
   </a>
 </p>
 
-![Footer]([https://your-image-url](https://drive.google.com/drive/folders/1lnpDpegfsXRd3yQz3g0zssXykOZVxtRu)/footer.gif)
+<details>
+  <summary>👨‍💻 Developer Animation</summary>
+  <div align="center">
+    <code>console.log('Welcome to my GitHub profile!');</code>
+  </div>
+</details>
+
+![Footer](https://drive.google.com/drive/folders/1lnpDpegfsXRd3yQz3g0zssXykOZVxtRu/footer.gif)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch. Let's build something amazing together! 😊  
 _Crafted by Levius_
