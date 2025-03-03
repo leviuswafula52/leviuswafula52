@@ -35,10 +35,10 @@ for learning and creating innovative solutions. Here's a bit about me tho:
 
 ## 📌 Pinned Repositories
 <p align="center">
-  <a href="https://github.com/leviuswafula52/Trans-Nzoia-ICT-hub-project">
+  <a href="https://github.com/leviuswafula52/ansnzoia-ict-hub-4szc.b12sites.com/index#home">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leviuswafula52&repo=Trans-Nzoia-ICT-hub-project&theme=radical" alt="Trans Nzoia ICT Hub Project" />
   </a>
-  <a href="https://github.com/leviuswafula52/Shulepress-project">
+  <a href="https://github.com/leviuswafula52/leviuswafula.netlify.app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leviuswafula52&repo=Shulepress-project&theme=radical" alt="Shulepress Project" />
   </a>
 </p>
@@ -48,10 +48,10 @@ for learning and creating innovative solutions. Here's a bit about me tho:
   <a href="https://www.linkedin.com/in/leviuswafula">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/leviuswafula">
+  <a href="https://twitter.com/wafulalevius">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://leviuswafula.dev">
+  <a href="https://leviuswafula.netlify.app">
     <img src="https://img.shields.io/badge/-Website-FF7139?style=flat&logo=google-chrome&logoColor=white" alt="Personal Website" />
   </a>
 </p>
