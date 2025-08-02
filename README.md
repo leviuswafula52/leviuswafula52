@@ -2,6 +2,10 @@
 
 ![Cartoon Burner Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThrYjI4aWI3dHAwaGV0Zno0N3lieXA4ZW9rMnpraTU0dGhlZTRudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
+# Hi there Dev, I'm Levius Wafula 👋
+
+![Cartoon Burner Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThrYjI4aWI3dHAwaGV0Zno0N3lieXA4ZW9rMnpraTU0dGhlZTRudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+
 # 💫 About Me:
 Hi 👋, I'm Levius wafula(Larvie)<br>About me:<br>A full-Stack self-made software dev With a passion for crafting intuitive user experiences, I have spent the last 5 years channeling my creativity and technical experties into building visually compelling and functionally seamless software applications.<br>My role as a developer is not just about writing code; it's about ensuring every pixel is in its right place and every interaction feels natural.<br><br>Im Proud of the projects I've brought to life and the problems I've solved along the way. Always eager to connect with fellow devs , designers, and companies that share a passion for building outstanding digital experience.
 
@@ -30,6 +34,12 @@ Hi 👋, I'm Levius wafula(Larvie)<br>About me:<br>A full-Stack self-made softwa
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Larvie Ké ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leviuswafula528@gmail.com) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/leviuswafula528@gmail.com) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/leviuswafula528@gmail.com) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch. Let's build something amazing together! 😊  
+_Crafted by Levius_
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
