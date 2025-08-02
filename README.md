@@ -29,42 +29,52 @@ for learning and creating innovative solutions. Here's a bit about me tho:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leviuswafula52&show_icons=true&theme=radical" alt="Levius Wafula's GitHub stats" />
-</p>
+# 📊 GitHub Stats:
 
-## 📌 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/leviuswafula52/ansnzoia-ict-hub-4szc.b12sites.com/index#home">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leviuswafula52&repo=Trans-Nzoia-ICT-hub-project&theme=radical" alt="Trans Nzoia ICT Hub Project" />
-  </a>
-  <a href="https://github.com/leviuswafula52/leviuswafula.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leviuswafula52&repo=Shulepress-project&theme=radical" alt="Shulepress Project" />
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=leviuswafula52&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-## 🤝 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/leviuswafula">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/wafulalevius">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://leviuswafula.netlify.app">
-    <img src="https://img.shields.io/badge/-Website-FF7139?style=flat&logo=google-chrome&logoColor=white" alt="Personal Website" />
-  </a>
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=leviuswafula52&theme=default_repocard&hide_border=false)<br/>
 
-<details>
-  <summary>👨‍💻 Developer Animation</summary>
-  <div align="center">
-    <code>console.log('Welcome to my GitHub profile!');</code>
-  </div>
-</details>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leviuswafula52&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Footer](https://drive.google.com/drive/folders/1lnpDpegfsXRd3yQz3g0zssXykOZVxtRu/footer.gif)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=leviuswafula52&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=leviuswafula52&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=leviuswafula52&icon=9&color=3)](https://visitcount.itsvg.in)
+
+
+
+  ## 💰 You can help me by Donating
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Larvie Ké ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leviuswafula528@gmail.com) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/leviuswafula528@gmail.com) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/leviuswafula528@gmail.com) 
+
+
+
+  
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch. Let's build something amazing together! 😊  
+
 _Crafted by Levius_
