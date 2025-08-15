@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://www.youtube.com/@larvieke)">
+   <a href="https://www.youtube.com/@larvieke">
     <img src="https://img.shields.io/badge/Subscribe-8.3K-red?style=flat&logo=youtube" />
   </a>
   <a href="https://www.youtube.com/@larvieke">
