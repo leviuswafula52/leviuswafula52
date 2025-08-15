@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Developer+%F0%9F%8D%94!;Experienced+UI%2FUX+developer..;Experienced+DevOps+Engineer..%E2%9B%91%EF%B8%8F;5%2B+Experience+years+in+Tech+and+IT..;Always+Learning+New+staff+%F0%9F%93%9A;larvie-ke)](https://git.io/typing-svg)">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=💚+Thanks+for+visiting+my+repo%2C+connect..+;🔗+LinkedIn+%7C+🐦+Twitter+%7C+💬+WhatsApp+%7C+🎵+TikTok" alt="Typing SVG" />
   </a>
 </p>
 
