@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## 📺 Latest YouTube Video  
 
-[![Watch on YouTube](https://img.youtube.com/vi/vB5xup2qJwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=vB5xup2qJwc&t=10s)
+[![Subscribe on YouTube](https://img.youtube.com/vi/vB5xup2qJwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=vB5xup2qJwc&t=10s)
 
 ---
 
