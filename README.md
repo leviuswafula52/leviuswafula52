@@ -1,6 +1,17 @@
 # Hi there Dev, I'm Levius Wafula 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&width=550&lines=Thanks+for+visiting+my+repo%2C+let%E2%80%99s+collaborate!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=💚+Thanks+for+visiting+my+repo%2C+connect..+;🔗+LinkedIn+%7C+🐦+Twitter+%7C+💬+WhatsApp+%7C+🎵+TikTok" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/levius-wafula-440b82244"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/WafulaLevius"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://wa.me/254713713176"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@code..52"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
 
