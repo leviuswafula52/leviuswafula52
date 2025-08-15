@@ -1,13 +1,11 @@
-#                                             Hi there Dev, I'm Levius Wafula 👋
+# Hi there Dev, I'm Levius Wafula 👋
 
 <p align="center">
-  <a href="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Developer+%F0%9F%8D%94!;Experienced+UI%2FUX+developer..;Experienced+DevOps+Engineer..%E2%9B%91%EF%B8%8F;5%2B+Experience+years+in+Tech+and+IT..;Always+Learning+New+staff+%F0%9F%93%9A;larvie-ke)](https://git.io/typing-svg)">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=22&width=600&lines=Full-Stack+Software+Developer+🍔!;Experienced+UI%2FUX+Developer..;Experienced+DevOps+Engineer+⚙️;5%2B+Years+Experience+in+Tech+and+IT..;Always+Learning+New+Stuff+📚;larvie-ke" alt="Intro Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://wa.me/254713713176"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@code..52"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=💚+Thanks+for+visiting+my+repo%2C+connect..+;🔗+LinkedIn+%7C+🐦+Twitter+%7C+💬+WhatsApp+%7C+🎵+TikTok" alt="Thanks Typing SVG" />
 </p>
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
