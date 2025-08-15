@@ -8,19 +8,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@YourChannel">
+  <a href="(https://www.youtube.com/@larvieke)">
     <img src="https://img.shields.io/badge/Subscribe-8.3K-red?style=flat&logo=youtube" />
   </a>
-  <a href="#">
+  <a href="https://www.youtube.com/@larvieke">
     <img src="https://img.shields.io/badge/Views-1.4M-yellow?style=flat&logo=google-analytics" />
   </a>
-  <a href="https://github.com/YourUsername?tab=repositories&q=&type=&language=&sort=stargazers">
+  <a href="https://github.com/leviuswafula52#?tab=repositories&q=&type=&language=&sort=stargazers">
     <img src="https://img.shields.io/badge/Stars-17K-brightgreen?style=flat&logo=github" />
   </a>
-  <a href="https://github.com/YourUsername?tab=followers">
+  <a href="https://github.com/leviuswafula52#?tab=followers">
     <img src="https://img.shields.io/badge/Follow-4.2K-blue?style=flat&logo=github" />
   </a>
-  <a href="#">
+  <a href="https://github.com/leviuswafula52#">
     <img src="https://img.shields.io/badge/Visitors-271.5K-9b4dca?style=flat&logo=github" />
   </a>
 </p>
