@@ -9,36 +9,12 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
 
-const aboutMe = [
-  {
-    icon: "🌱",
-    text: "I’m currently developing, learning new technologies, and improving my skills in full-stack development."
-  },
-  {
-    icon: "🛠",
-    text: "Check my project here:",
-    link: {
-      label: "Shulepress",
-      url: "https://app.shulepress.com"
-    }
-  },
-  {
-    icon: "💬",
-    text: "Ask me about JavaScript (ES6), Laravel PHP, Tailwind CSS, React, and web development."
-  },
-  {
-    icon: "📫",
-    text: "Reach me via:",
-    link: {
-      label: "leviuswafula528@gmail.com",
-      url: "mailto:leviuswafula528@gmail.com"
-    }
-  },
-  {
-    icon: "⚡",
-    text: "Fun fact: I love playing KONAMI and bike hiking in my free time."
-  }
-];
+## 🚀 About Me
+- 🌱 I’m currently developing, learning new technologies, and improving my skills in full-stack development.
+- 🛠 Check my project here: [Shulepress](https://app.shulepress.com)
+- 💬 Ask me about JavaScript (ES6), Laravel PHP, Tailwind CSS, React, and web development.
+- 📫 Reach me via: [leviuswafula528@gmail.com](mailto:leviuswafula528@gmail.com)
+- ⚡ Fun fact: I love playing KONAMI and bike hiking in my free time.
 
 ---
 
