@@ -7,12 +7,12 @@
   <a href="https://www.tiktok.com/@code..52"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
+Thanks for visiting my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
 
 ## 🚀 About Me
 - 🌱 I’m currently developing, learning new technologies, and improving my skills in full-stack development.
 - 🛠 Check my project here: [Shulepress](https://app.shulepress.com)
-- 💬 Ask me about JavaScript (ES6), Laravel PHP, Tailwind CSS, React, and web development.
+- 💬 Ask me about JavaScript (ES7), Laravel PHP, Tailwind CSS, React, and web development.
 - 📫 Reach me via: [leviuswafula528@gmail.com](mailto:leviuswafula528@gmail.com)
 - ⚡ Fun fact: I love playing KONAMI and bike hiking in my free time.
 
