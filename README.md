@@ -10,11 +10,68 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently developing, learning new technologies, and improving my skills in full-stack development.
-- 🛠 Check my project here: [Shulepress](https://app.shulepress.com)
-- 💬 Ask me about JavaScript (ES6), Laravel PHP, Tailwind CSS, React, and web development.
-- 📫 Reach me via: [leviuswafula528@gmail.com](mailto:leviuswafula528@gmail.com)
-- ⚡ Fun fact: I love playing KONAMI and bike hiking in my free time.
+import React from "react";
+
+const aboutMe = [
+  {
+    icon: "🌱",
+    text: "I’m currently developing, learning new technologies, and improving my skills in full-stack development."
+  },
+  {
+    icon: "🛠",
+    text: "Check my project here:",
+    link: {
+      label: "Shulepress",
+      url: "https://app.shulepress.com"
+    }
+  },
+  {
+    icon: "💬",
+    text: "Ask me about JavaScript (ES6), Laravel PHP, Tailwind CSS, React, and web development."
+  },
+  {
+    icon: "📫",
+    text: "Reach me via:",
+    link: {
+      label: "leviuswafula528@gmail.com",
+      url: "mailto:leviuswafula528@gmail.com"
+    }
+  },
+  {
+    icon: "⚡",
+    text: "Fun fact: I love playing KONAMI and bike hiking in my free time."
+  }
+];
+
+export default function AboutMe() {
+  return (
+    <div className="max-w-lg mx-auto bg-gray-900 text-white p-6 rounded-2xl shadow-lg">
+      <h2 className="text-2xl font-bold mb-4 flex items-center">
+        🚀 About Me
+      </h2>
+      <ul className="space-y-3">
+        {aboutMe.map((item, index) => (
+          <li key={index} className="flex items-start">
+            <span className="mr-3 text-xl">{item.icon}</span>
+            <span>
+              {item.text}{" "}
+              {item.link && (
+                <a
+                  href={item.link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-400 hover:underline"
+                >
+                  {item.link.label}
+                </a>
+              )}
+            </span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
 
 ---
 
