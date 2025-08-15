@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 ![](https://github-readme-stats.vercel.app/api?username=leviuswafula52&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=leviuswafula52)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leviuswafula52&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![image](https://github.com/user-attachments/assets/59a5d9d5-8a2a-4916-aa46-a0a49a6f0372) 
+
 
 ---
 
