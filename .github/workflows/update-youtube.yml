@@ -13,12 +13,12 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Pull latest YouTube videos
-        uses: DenverCoder1/github-readme-youtube@main
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          channel_id: UCxXg6WaNmjgmXJF57jwQrvQ
-          max_results: 1
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCxXg6WaNmjgmXJF57jwQrvQ"
+          max_post_count: 1
           readme_path: README.md
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          template: "<!-- YOUTUBE:START --><!-- YOUTUBE:END -->"
 
       - name: Commit and push changes
         run: |

@@ -39,6 +39,12 @@ Here’s a bit about me:
 
 ---
 
+## 🎥 Latest YouTube Video
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levius-wafula-440b82244)
