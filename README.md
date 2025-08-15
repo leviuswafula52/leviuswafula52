@@ -47,15 +47,24 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 ---
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://leviuswafula.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levius-wafula-440b82244)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/WafulaLevius)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mr.shulepress)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/larvie_52)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code..52)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@larvieke)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=000000)](https://leviuswafula.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/levius-wafula-440b82244)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000)](https://x.com/WafulaLevius)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2)](https://www.facebook.com/mr.shulepress)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F)](https://www.instagram.com/larvie_52)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000&color=000000)](https://www.tiktok.com/@code..52)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000)](https://www.youtube.com/@larvieke)
 
 ---
+
+✨ **Animated Badges Version** ✨  
+
+[![Portfolio Animated](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=false&vCenter=true&width=200&lines=Portfolio)](https://leviuswafula.netlify.app/)
+[![LinkedIn Pulse](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&cacheSeconds=3600)](https://www.linkedin.com/in/levius-wafula-440b82244)
+[![Twitter Wave](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=false&vCenter=true&width=150&lines=Follow+Me)](https://x.com/WafulaLevius)
+[![YouTube Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&width=200&lines=Watch+on+YouTube)](https://www.youtube.com/@larvieke)
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=leviuswafula52&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
