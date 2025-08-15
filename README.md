@@ -1,11 +1,7 @@
 # Hi there Dev, I'm Levius Wafula 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=22&width=600&lines=Full-Stack+Software+Developer+🍔!;Experienced+UI%2FUX+Developer..;Experienced+DevOps+Engineer+⚙️;5%2B+Years+Experience+in+Tech+and+IT..;Always+Learning+New+Stuff+📚;larvie-ke" alt="Intro Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=💚+Thanks+for+visiting+my+repo%2C+connect..+;🔗+LinkedIn+%7C+🐦+Twitter+%7C+💬+WhatsApp+%7C+🎵+TikTok" alt="Thanks Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=💚+Thanks+for+visiting+my+repo%2C+connect..+;🔗+LinkedIn+%7C+🐦+Twitter+%7C+💬+WhatsApp+%7C+🎵+TikTok" alt="Typing SVG" />
 </p>
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
