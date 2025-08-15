@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 [![Portfolio Animated](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=false&vCenter=true&width=200&lines=Portfolio)](https://leviuswafula.netlify.app/)
 [![LinkedIn Pulse](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&cacheSeconds=3600)](https://www.linkedin.com/in/levius-wafula-440b82244)
 [![Twitter Wave](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=false&vCenter=true&width=150&lines=Follow+Me)](https://x.com/WafulaLevius)
-[![YouTube Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&width=200&lines=Subscribe+YouTube)](https://www.youtube.com/@larvieke)
+[![YouTube Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&width=200&lines=Subscribe)](https://www.youtube.com/@larvieke)
 
 ---
 
