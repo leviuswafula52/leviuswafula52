@@ -9,9 +9,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
 
-## 🚀 About Me
-import React from "react";
-
 const aboutMe = [
   {
     icon: "🌱",
@@ -42,36 +39,6 @@ const aboutMe = [
     text: "Fun fact: I love playing KONAMI and bike hiking in my free time."
   }
 ];
-
-export default function AboutMe() {
-  return (
-    <div className="max-w-lg mx-auto bg-gray-900 text-white p-6 rounded-2xl shadow-lg">
-      <h2 className="text-2xl font-bold mb-4 flex items-center">
-        🚀 About Me
-      </h2>
-      <ul className="space-y-3">
-        {aboutMe.map((item, index) => (
-          <li key={index} className="flex items-start">
-            <span className="mr-3 text-xl">{item.icon}</span>
-            <span>
-              {item.text}{" "}
-              {item.link && (
-                <a
-                  href={item.link.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-400 hover:underline"
-                >
-                  {item.link.label}
-                </a>
-              )}
-            </span>
-          </li>
-        ))}
-      </ul>
-    </div>
-  );
-}
 
 ---
 
