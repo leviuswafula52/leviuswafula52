@@ -1,4 +1,4 @@
-#                                             Hi there Dev, I'm Levius Wafula 👋
+# Hi👋, I'm Levius Wafula 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Developer+%F0%9F%8D%94!;Experienced+UI%2FUX+developer..;Experienced+DevOps+Engineer..%E2%9B%91%EF%B8%8F;5%2B+Experience+years+in+Tech+and+IT..;Always+Learning+New+staff+%F0%9F%93%9A;larvie-ke)](https://git.io/typing-svg)
 
