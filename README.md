@@ -1,6 +1,6 @@
 # Hi there Dev, I'm Levius Wafula 👋
 
-![Cartoon Burner Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThrYjI4aWI3dHAwaGV0Zno0N3lieXA4ZW9rMnpraTU0dGhlZTRudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&width=550&lines=Thanks+for+visiting+my+repo%2C+let%E2%80%99s+collaborate!)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating innovative solutions. Here's a bit about me:
 
@@ -31,6 +31,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -40,30 +43,31 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ---
 
-## 📺 Latest YouTube Video
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+## 📺 Latest YouTube Video  
+
+[![Watch on YouTube](https://img.youtube.com/vi/vB5xup2qJwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=vB5xup2qJwc&t=10s)
 
 ---
 
 ## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=000000)](https://leviuswafula.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/levius-wafula-440b82244)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000)](https://x.com/WafulaLevius)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2)](https://www.facebook.com/mr.shulepress)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F)](https://www.instagram.com/larvie_52)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000&color=000000)](https://www.tiktok.com/@code..52)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000)](https://www.youtube.com/@larvieke)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://leviuswafula.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levius-wafula-440b82244)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/WafulaLevius)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mr.shulepress)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/larvie_52)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code..52)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@larvieke)
 
 ---
 
-✨ **Animated Badges Version** ✨  
+✨ **See You Soon** ✨  
 
 [![Portfolio Animated](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=false&vCenter=true&width=200&lines=Portfolio)](https://leviuswafula.netlify.app/)
 [![LinkedIn Pulse](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&cacheSeconds=3600)](https://www.linkedin.com/in/levius-wafula-440b82244)
 [![Twitter Wave](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=false&vCenter=true&width=150&lines=Follow+Me)](https://x.com/WafulaLevius)
 [![YouTube Pulse](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&width=200&lines=Watch+on+YouTube)](https://www.youtube.com/@larvieke)
+
+---
 
 
 # 📊 GitHub Stats
