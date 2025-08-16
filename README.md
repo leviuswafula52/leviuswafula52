@@ -72,7 +72,7 @@ Thanks for visiting my GitHub profile! I'm a passionate developer with a love fo
 
 ---
 
-## 📺 Latest YouTube Video  
+## 📺 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="22" height="22" /> Latest YouTube Video
 
 [![Watch on YouTube](https://img.youtube.com/vi/vB5xup2qJwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=vB5xup2qJwc&t=10s)
 
