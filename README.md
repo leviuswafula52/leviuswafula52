@@ -74,7 +74,7 @@ Thanks for visiting my GitHub profile! I'm a passionate developer with a love fo
 
 ## <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="22" height="22" /> Latest YouTube Video  
 
-[![Watch the video](![alt icon](image.png))](https://www.youtube.com/watch?v=vB5xup2qJwc&t=10s)
+[![Watch the video](https://i.imgur.com/7fI9R3S.png)](https://www.youtube.com/watch?v=vB5xup2qJwc&t=10s)
 
 
 
