@@ -131,7 +131,7 @@ Thanks for visiting my GitHub profile! I'm a passionate developer with a love fo
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://buymeacoffee.com/LarvieKé](https://studio.buymeacoffee.com/stream-alert/page/leviuswafula?user_key=397e6ca4-d7db-4885-8ac2-3dbb5e638d18))
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leviuswafula528@gmail.com)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/leviuswafula528@gmail.com)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](patreon.com/leviuswafula)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/leviuswafula528@gmail.com)
 
 ---
