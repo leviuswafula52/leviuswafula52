@@ -1,6 +1,6 @@
 ## <h1 align="center"><i><b>Hi👋, I'm Levius Wafula</b></i></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Developer+%F0%9F%8D%94!;Experienced+UI%2FUX+developer..;Experienced+DevOps+Engineer..%E2%9B%91%EF%B8%8F;5%2B+Experience+years+in+Tech+and+IT..;Always+Learning+New+staff+%F0%9F%93%9A;larvie-ke)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Developer+%F0%9F%8D%94!;Experienced+UI%2FUX+developer..;Experienced+DevOps+Engineer..%E2%9B%91%EF%B8%8F;5%2B+Experience+years+in+Tech+and+IT..;Always+Learning+New+staff+%F0%9F%93%9A;larvie-ke;%3CShulepress%3E)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://wa.me/254713713176"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
