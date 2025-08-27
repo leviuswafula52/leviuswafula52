@@ -81,7 +81,7 @@ Thanks for visiting my GitHub profile! I'm a passionate developer with a love fo
 ---
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://leviuswafula.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://levius.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levius-wafula-440b82244)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/WafulaLevius)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mr.shulepress)
