@@ -37,7 +37,7 @@ Thanks for visiting my GitHub profile! I'm a passionate developer with a love fo
 - 🌱 I’m currently developing, learning new technologies, and improving my skills in full-stack development.
 - 🛠 Check my project here: [portfolio](https://levius.netlify.app/)
 - 💬 Ask me about JavaScript (ES17), Laravel PHP, Tailwind CSS, React, and DevOps Engineering.
-- 📫 Reach me via: [leviuswafula528@gmail.com](mailto:leviuswafula528@gmail.com)
+- 📫 Reach me via: [leviuswafula528@gmail.com](mailto:levius24@icloud.com)
 - ⚡ Fun fact: I love playing KONAMI and bike hiking in my free time.
 
 ---
